@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/yangchangcheng60/yangchang
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<object data="./FENCE.pdf" width="1000" height="1000" type='application/pdf'/>
 
+<object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
 
 {% include fence.html %}
 

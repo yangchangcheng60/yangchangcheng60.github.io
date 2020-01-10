@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-{% include googleDrivePlayer.html%}
+{% include fence.html %}
+
+{% include said.html %}
 
 
 

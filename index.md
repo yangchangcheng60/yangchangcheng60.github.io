@@ -1,9 +1,3 @@
----
-driveId: ycc
----
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yangchangcheng60/yangchangcheng60.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -12,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html%}
+
+
 
 ### Markdown
 

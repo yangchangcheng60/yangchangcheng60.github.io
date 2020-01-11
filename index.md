@@ -10,7 +10,7 @@
 
 {% include geology.html %}
 
-### What did say on the Internet
+### What did you say on the Internet
 
 {% include said_pdf.html %}
 

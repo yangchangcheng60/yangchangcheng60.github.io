@@ -1,4 +1,4 @@
-## Welcome to YANG Changcheng's Website
+## Welcome to YANG Changcheng's Webpage
 
 ### Personal Video
 

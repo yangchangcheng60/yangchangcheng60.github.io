@@ -1,6 +1,8 @@
 ## Welcome to YANG Changcheng's Website
 
+### Personal Video
 
+{% include personal.html %}
 
 ### Geology Auto
 
